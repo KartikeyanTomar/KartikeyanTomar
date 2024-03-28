@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Kartikeyan Singh Tomar</h1>
 <h3 align="center">A Cyber Security Student From India</h3>
 
-<img align="right" alt="hacking done" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="right" alt="hacking done" style=" width=:400px; height: 400px; object-fit:contain;" src="https://github.com/KartikeyanTomar/KartikeyanTomar/blob/main/IMG_0522.JPG">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeyantomar&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyantomar" /> </p>
 
